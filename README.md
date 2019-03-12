@@ -1,4 +1,4 @@
-# simplified-system-for-auto-completion-of-words
+# Simplified-System-For-Auto-Completion-of-Words
 A data structure project for developing a simple system for completing words.
 
 The project was to create a data structure for a simplified system for an autocompletion system, 
